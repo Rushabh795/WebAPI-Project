@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "opdDZwZQ5WQhNkiDFTQ5P/lOsQD1n9w5ewT8jfuspVp/s6V5nNzUSB7dAsTKhlRCUq/ThB/UpgdyS0ehRNucCQ==",
+  "dgSpecHash": "CCPMz0QIYz8sjen/ruK9agHDtYiZJmKDoyFEvuQnFm6/80Ajey+a4si/2wLa4yG7K5hPtcvzs2mkjWWmpVvIMg==",
   "success": true,
-  "projectFilePath": "/Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI_Project/WebAPI_Project/WebAPI_Project.csproj",
+  "projectFilePath": "/Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_Project/WebAPI_Project.csproj",
   "expectedPackageFiles": [
-    "/Users/rushabhshah/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/rushabhshah/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/rushabhshah/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
-    "/Users/rushabhshah/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "/Users/rushabhshah/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "/Users/rushabhshah/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "/Users/rushabhshah/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "/Users/rushabhshah/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/rushabhshah/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/rushabhshah/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/rushabhshah/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
   ],
   "logs": []
 }

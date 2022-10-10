@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{EA798697-108B-4DE2-B6E7-1BD04A1F2398}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebAPI_TestProject/Calculator_Test.cs">
+    <Files>
+      <File FileName="WebAPI_TestProject/Calculator_Test.cs" Line="22" Column="6" />
+      <File FileName="WebAPI_LibraryProject/Calculator_Logic.cs" Line="11" Column="28" />
+      <File FileName="WebAPI_Project/Program.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebAPI_Project" expanded="True">
+            <Node name="WebAPI_LibraryProject" expanded="True" />
+            <Node name="WebAPI_Project" expanded="True" />
+            <Node name="WebAPI_TestProject.cs" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Calculator_Test.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="WebAPI_Project" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WebAPI__Project PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

@@ -5,7 +5,7 @@ VisualStudioVersion = 25.0.1703.5
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_Project", "WebAPI_Project\WebAPI_Project.csproj", "{EA798697-108B-4DE2-B6E7-1BD04A1F2398}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_TestProject", "WebAPI_TestProject\WebAPI_TestProject.csproj", "{D37C2B7B-241C-4989-953B-15432377AD28}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_TestProject.cs", "WebAPI_TestProject\WebAPI_TestProject.cs.csproj", "{D37C2B7B-241C-4989-953B-15432377AD28}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_LibraryProject", "WebAPI_LibraryProject\WebAPI_LibraryProject.csproj", "{3D4A6B23-1508-4839-90CA-5F94DB84B1D3}"
 EndProject

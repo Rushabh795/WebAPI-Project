@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "BsgKBMiRo1ATCoMq10Dx5HT6njF2aUZu04zcmfcq4HaHgyiKdfQcvCOZRVV3x+GbOgSGSogtrZIZr38ByU/bUw==",
+  "dgSpecHash": "TpgZL4CzjxzR8BNbr0UJoY6jxnz3r4LFYVYr56MvxPWRqPEPhNew6cXhkFPdjMptRN7W4GKr2yXeSS+avBS4OQ==",
   "success": true,
-  "projectFilePath": "/Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI_Project/WebAPI_LibraryProject/WebAPI_LibraryProject.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_LibraryProject/WebAPI_LibraryProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/rushabhshah/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/rushabhshah/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/rushabhshah/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/rushabhshah/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/rushabhshah/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/rushabhshah/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
   "logs": []
 }

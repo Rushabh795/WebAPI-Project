@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI_Project/WebAPI_TestProject/WebAPI_TestProject.csproj": {}
+    "/Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/WebAPI_TestProject.csproj": {}
   },
   "projects": {
-    "/Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI_Project/WebAPI_TestProject/WebAPI_TestProject.csproj": {
+    "/Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/WebAPI_TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI_Project/WebAPI_TestProject/WebAPI_TestProject.csproj",
+        "projectUniqueName": "/Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/WebAPI_TestProject.csproj",
         "projectName": "WebAPI_TestProject",
-        "projectPath": "/Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI_Project/WebAPI_TestProject/WebAPI_TestProject.csproj",
+        "projectPath": "/Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/WebAPI_TestProject.csproj",
         "packagesPath": "/Users/rushabhshah/.nuget/packages/",
-        "outputPath": "/Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI_Project/WebAPI_TestProject/obj/",
+        "outputPath": "/Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rushabhshah/.nuget/NuGet/NuGet.Config"
