@@ -22,5 +22,12 @@ public class Calculator_Logic
     {
         return left * right;
     }
+
+    //This is the logic part of Division
+
+    public static double division(double left, double right)
+    {
+        return left / right;
+    }
 }
 
