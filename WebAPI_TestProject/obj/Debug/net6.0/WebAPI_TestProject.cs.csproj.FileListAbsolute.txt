@@ -1,9 +1,4 @@
 /Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/CoverletSourceRootsMapping
-/Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/WebAPI_Project.deps.json
-/Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/WebAPI_Project.runtimeconfig.json
-/Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/appsettings.Development.json
-/Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/appsettings.json
-/Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/WebAPI_Project
 /Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 /Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 /Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -13,7 +8,6 @@
 /Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/WebAPI_TestProject.dll
 /Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/WebAPI_TestProject.pdb
 /Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
-/Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/Microsoft.OpenApi.dll
 /Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
 /Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
 /Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
@@ -25,9 +19,6 @@
 /Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 /Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/Newtonsoft.Json.dll
 /Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/NuGet.Frameworks.dll
-/Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
-/Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
 /Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 /Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
@@ -95,9 +86,7 @@
 /Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 /Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 /Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/WebAPI_LibraryProject.dll
-/Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/WebAPI_Project.dll
 /Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/WebAPI_LibraryProject.pdb
-/Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/WebAPI_Project.pdb
 /Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 /Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/obj/Debug/net6.0/WebAPI_TestProject.cs.csproj.AssemblyReference.cache
 /Users/rushabhshah/Desktop/WebDevelopment/Web_Sem2/WebAPI-Project/WebAPI_TestProject/obj/Debug/net6.0/WebAPI_TestProject.cs.GeneratedMSBuildEditorConfig.editorconfig

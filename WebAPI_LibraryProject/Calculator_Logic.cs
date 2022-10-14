@@ -1,10 +1,7 @@
 ﻿namespace WebAPI_LibraryProject;
+
 public class Calculator_Logic
 {
-
-
-    
-
     //This is the logic part of addition
     public static double addittion(double left, double right, double expected)
     {
@@ -27,7 +24,14 @@ public class Calculator_Logic
 
     public static double division(double left, double right)
     {
-        return left / right;
+        if (right != 0)
+        {
+            return left / right;
+        }
+        else
+        {
+            throw new DivideByZeroException();
+        }
     }
 }
 

@@ -15,7 +15,7 @@
     <None Remove="Microsoft.VisualStudio.Web.CodeGeneration.Design" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WebAPI_LibraryProject\WebAPI_LibraryProject.csproj">
+    <ProjectReference Include="..\WebAPI_TestProject\WebAPI_TestProject.cs.csproj">
       <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
     </ProjectReference>
   </ItemGroup>
